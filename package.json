@@ -1,0 +1,24 @@
+{
+  "name": "week-9-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "r": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orayb-AlSmadi/Week-9-Assessment.git"
+  },
+  "author": "orayb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orayb-AlSmadi/Week-9-Assessment/issues"
+  },
+  "homepage": "https://github.com/Orayb-AlSmadi/Week-9-Assessment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
